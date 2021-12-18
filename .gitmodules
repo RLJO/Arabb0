@@ -1,0 +1,4 @@
+[submodule "NewRL/tmco12"]
+	path = NewRL/tmco12
+	url = git@github.com:NewRL/tmco12.git
+	branch = main
