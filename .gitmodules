@@ -1,0 +1,4 @@
+[submodule "jslogyca/Logyca"]
+	path = jslogyca/Logyca
+	url = git@github.com:jslogyca/Logyca.git
+	branch = master
